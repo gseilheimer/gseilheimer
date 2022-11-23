@@ -1,4 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/gseilheimer/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
@@ -16,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gseilheimer">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/458596?v=4" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Gilbert Seilheimer</h3>
