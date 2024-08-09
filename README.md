@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gseilheimer">
-    <img src="https://avatars.githubusercontent.com/u/458596?v=4" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/458596?v=4" alt="Logo" width="301" height="401">
   </a>
 
 <h3 align="center">Gilbert Seilheimer</h3>
