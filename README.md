@@ -77,6 +77,8 @@ Anwendbarkeit und zukunftsfähige Lösungen** — keine Folien, sondern Dinge, d
 | **contic.de** | Redaktionelle Neustrukturierung & Positionierung der Agentur-Website (WordPress / Astra · Spectra) |
 | **Newsletter-Automation** | Automatisierte Content-Pipeline mit n8n + LLM + NocoDB |
 
+> **Hinweis:** Öffentlich ist hier nur die Spitze des Eisbergs — ein Großteil meiner Arbeit entsteht in privaten Kunden-, Beratungs- und Forschungsprojekten. Details, Referenzen und Code gerne [auf Anfrage](https://contic.de).
+
 <p align="right">(<a href="#readme-top">nach oben</a>)</p>
 
 ## Open Source & Community
@@ -127,6 +129,8 @@ augmented reality, IoT/smart factory and AI-assisted, spec-driven development
 and teaching.
 
 Active in the **REDAXO** community ([FriendsOfREDAXO](https://github.com/FriendsOfREDAXO)).
+
+_Note: this profile shows only the tip of the iceberg — most of my work lives in private client, consulting and research repositories. Details and references on request._
 
 [gseilheimer.de](https://gseilheimer.de) · [LinkedIn](https://www.linkedin.com/in/gseilheimer) · [ORCID](https://orcid.org/0009-0002-7613-8260)
 
