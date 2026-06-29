@@ -34,11 +34,11 @@ Folien, sondern Dinge, die funktionieren.
 
 ### Schwerpunkte
 
-- 🌐 **Web-Technologien** — HTML5, E-Commerce/E-Business, Online-Plattformen, Prototyping
-- 🧩 **CMS & Open Source** — REDAXO, WordPress (Astra/Spectra), OXID eShop
-- 🥽 **Augmented Reality** für mobile Endgeräte
-- 🏭 **IoT & Smart-Factory-Technologien**
-- 🤖 **KI-gestützte Entwicklung & Lehre** — Context-/Spec-Driven Development
+- **Web-Technologien** — HTML5, E-Commerce/E-Business, Online-Plattformen, Prototyping
+- **CMS & Open Source** — REDAXO, WordPress (Astra/Spectra), OXID eShop
+- **Augmented Reality** für mobile Endgeräte
+- **IoT & Smart-Factory-Technologien**
+- **KI-gestützte Entwicklung & Lehre** — Context-/Spec-Driven Development
 
 <p align="right">(<a href="#readme-top">nach oben</a>)</p>
 
@@ -63,9 +63,9 @@ Folien, sondern Dinge, die funktionieren.
 
 | Projekt | Worum es geht |
 | ------- | ------------- |
-| 🎓 [**ki-projekt-template**](https://github.com/gseilheimer/ki-projekt-template) | Vorlage für KI-gestützte Studienprojekte (Context-/Spec-Driven Development mit Claude Code, Cursor, Copilot, Codex) — Hochschule Offenburg |
-| 🌐 **contic.de** | Redaktionelle Neustrukturierung & Positionierung der Agentur-Website (WordPress / Astra · Spectra) |
-| 📰 **Newsletter-Automation** | Automatisierte Content-Pipeline mit n8n + LLM + NocoDB |
+| [**ki-projekt-template**](https://github.com/gseilheimer/ki-projekt-template) | Vorlage für KI-gestützte Studienprojekte (Context-/Spec-Driven Development mit Claude Code, Cursor, Copilot, Codex) — Hochschule Offenburg |
+| **contic.de** | Redaktionelle Neustrukturierung & Positionierung der Agentur-Website (WordPress / Astra · Spectra) |
+| **Newsletter-Automation** | Automatisierte Content-Pipeline mit n8n + LLM + NocoDB |
 
 <p align="right">(<a href="#readme-top">nach oben</a>)</p>
 
@@ -84,21 +84,21 @@ Projekten in Wirtschaftsinformatik, E-Business, Marketing und Web-Technologien.
 Aktueller Fokus: KI-gestützte, spezifikationsgetriebene Entwicklung in
 studentischen Teamprojekten.
 
-🔗 ORCID: [0009-0002-7613-8260](https://orcid.org/0009-0002-7613-8260)
+ORCID: [0009-0002-7613-8260](https://orcid.org/0009-0002-7613-8260)
 
 <p align="right">(<a href="#readme-top">nach oben</a>)</p>
 
 ## Kontakt
 
-- 🌐 Website — <https://gseilheimer.de>
-- 🏢 Agentur — <https://contic.de>
-- 💼 LinkedIn — [in/gseilheimer](https://www.linkedin.com/in/gseilheimer)
-- 🎨 Portfolio — [Dribbble](https://dribbble.com/gseilheimer) · [Behance](https://www.behance.net/gseilheimer)
+- Website — <https://gseilheimer.de>
+- Agentur — <https://contic.de>
+- LinkedIn — [in/gseilheimer](https://www.linkedin.com/in/gseilheimer)
+- Portfolio — [Dribbble](https://dribbble.com/gseilheimer) · [Behance](https://www.behance.net/gseilheimer)
 
 ---
 
 <details>
-<summary>🇬🇧 <strong>English summary</strong></summary>
+<summary><strong>English summary</strong></summary>
 
 <br>
 
@@ -115,7 +115,7 @@ IoT & smart-factory technologies, and AI-assisted, spec-driven development.
 
 Active in the **REDAXO** community ([FriendsOfREDAXO](https://github.com/FriendsOfREDAXO)).
 
-📫 [gseilheimer.de](https://gseilheimer.de) · [LinkedIn](https://www.linkedin.com/in/gseilheimer) · [ORCID](https://orcid.org/0009-0002-7613-8260)
+[gseilheimer.de](https://gseilheimer.de) · [LinkedIn](https://www.linkedin.com/in/gseilheimer) · [ORCID](https://orcid.org/0009-0002-7613-8260)
 
 </details>
 
