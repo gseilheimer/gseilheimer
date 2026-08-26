@@ -17,6 +17,7 @@ Wiss. Mitarbeiter an der [**Hochschule Offenburg**](https://www.hs-offenburg.de)
 [![CONTIC](https://img.shields.io/badge/Agentur-CONTIC-1e2327?style=flat-square)](https://contic.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gseilheimer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gseilheimer)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7613--8260-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7613-8260)
+[![Impressum](https://img.shields.io/badge/Impressum-555555?style=flat-square)](https://gseilheimer.de/imprint)
 
 </div>
 
