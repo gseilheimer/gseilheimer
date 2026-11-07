@@ -8,10 +8,10 @@
 # Gilbert Seilheimer
 
 **Aus Konzepten werden Prototypen.**
-Unternehmensberater · Wissenschaftlicher Mitarbeiter · Web-Technologe
+Unternehmensberater · Technischer Mitarbeiter und Dozent · Web-Technologe
 
 Inhaber der Agentur [**CONTIC**](https://contic.de) (Gengenbach, Schwarzwald) ·
-Wiss. Mitarbeiter an der [**Hochschule Offenburg**](https://www.hs-offenburg.de)
+Technischer Mitarbeiter und Dozent an der [**Hochschule Offenburg**](https://www.hs-offenburg.de)
 
 [![Website](https://img.shields.io/badge/Website-gseilheimer.de-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://gseilheimer.de)
 [![CONTIC](https://img.shields.io/badge/Agentur-CONTIC-1e2327?style=flat-square)](https://contic.de)
@@ -92,8 +92,8 @@ mehrere REDAXO-Addons entstanden (MarkItUp, FancyBox, Piwik, Video.js u. a.).
 
 ## Lehre & Forschung
 
-Wissenschaftlicher Mitarbeiter an der **Hochschule Offenburg** mit Lehre und
-Projekten in Wirtschaftsinformatik, E-Business, Marketing und Web-Technologien.
+Technischer Mitarbeiter und Dozent an der **Hochschule Offenburg** mit Lehre in
+Grundlagen der IT, Mobile Business, Mobile Commerce und E-Commerce.
 Aktueller Fokus: KI-gestützte, spezifikationsgetriebene Entwicklung in
 studentischen Teamprojekten.
 
@@ -117,7 +117,7 @@ ORCID: [0009-0002-7613-8260](https://orcid.org/0009-0002-7613-8260)
 
 **Gilbert Seilheimer** — turning concepts into prototypes.
 
-Business consultant, research assistant at **Offenburg University of Applied
+Business consultant, technical staff member and lecturer at **Offenburg University of Applied
 Sciences**, and owner of the agency **[CONTIC](https://contic.de)** (Gengenbach,
 Black Forest, founded 2007). Through CONTIC I deliver an end-to-end offering —
 consulting, implementation, migration and operations from a single source.
