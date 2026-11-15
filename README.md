@@ -99,6 +99,16 @@ ORCID: [0009-0002-7613-8260](https://orcid.org/0009-0002-7613-8260)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Where to find what
+
+| Account | What you find there |
+| ------- | ------------------- |
+| [**gseilheimer**](https://github.com/gseilheimer) (here) | Contributions and forks in projects I use (REDAXO, Nextcloud, OCA), personal repositories |
+| [**contic-de**](https://github.com/contic-de) | Tools from consulting and IT, by CONTIC |
+| [**edu-space-de**](https://github.com/edu-space-de) | Teaching and training material for participants and students, by EDU-SPACE |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Contact
 
 - Website: <https://gseilheimer.de?mtm_source=github&mtm_medium=profil>
