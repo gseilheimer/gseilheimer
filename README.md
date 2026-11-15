@@ -88,10 +88,11 @@ Odoo localization for Germany (OCA).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Teaching
+## Teaching and applied research
 
 Technical staff member and lecturer at **Offenburg University of Applied Sciences**, teaching
 IT fundamentals, mobile business, mobile commerce and e-commerce.
+My topics: augmented reality, IoT, AI (LLMs) and workflow automation. I build the systems I research.
 Current focus: AI-assisted, spec-driven development in student team projects.
 
 ORCID: [0009-0002-7613-8260](https://orcid.org/0009-0002-7613-8260)
