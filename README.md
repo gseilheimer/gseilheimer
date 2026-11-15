@@ -64,7 +64,7 @@ Business enquiries go through [**CONTIC**](https://contic.de?mtm_source=github&m
 
 | Project | What it is about |
 | ------- | ---------------- |
-| [**ki-projekt-template**](https://github.com/gseilheimer/ki-projekt-template) | Template for AI-assisted student projects (context-/spec-driven development with Claude Code, Cursor, Copilot, Codex), Offenburg University of Applied Sciences |
+| [**ki-projekt-template**](https://github.com/edu-space-de/ki-projekt-template) | Template for AI-assisted student projects (context-/spec-driven development with Claude Code, Cursor, Copilot, Codex), Offenburg University of Applied Sciences |
 | **AI-assisted deployments & migrations** | Automated, AI-supported deployments and migrations in the web tech stack |
 | **Platform rollouts** | Process- and project-supporting introduction of Odoo, GLPI and LimeSurvey |
 | **contic.de** | Editorial restructuring and positioning of the agency website (WordPress / Astra · Spectra) |
