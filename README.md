@@ -13,8 +13,8 @@ Unternehmensberater · Technischer Mitarbeiter und Dozent · Web-Technologe
 Inhaber der Agentur [**CONTIC**](https://contic.de) (Gengenbach, Schwarzwald) ·
 Technischer Mitarbeiter und Dozent an der [**Hochschule Offenburg**](https://www.hs-offenburg.de)
 
-[![Website](https://img.shields.io/badge/Website-gseilheimer.de-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://gseilheimer.de)
-[![CONTIC](https://img.shields.io/badge/Agentur-CONTIC-1e2327?style=flat-square)](https://contic.de)
+[![Website](https://img.shields.io/badge/Website-gseilheimer.de-7d397f?style=flat-square&logo=googlechrome&logoColor=white)](https://gseilheimer.de)
+[![CONTIC](https://img.shields.io/badge/Agentur-CONTIC-7d397f?style=flat-square)](https://contic.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gseilheimer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gseilheimer)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7613--8260-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7613-8260)
 [![Impressum](https://img.shields.io/badge/Impressum-555555?style=flat-square)](https://gseilheimer.de/imprint)
@@ -30,21 +30,22 @@ von der strategischen Idee über die Umsetzung bis zum laufenden Betrieb. Seit 2
 ich die Agentur **CONTIC** und begleite Unternehmen bei Digitalisierung, E-Business und
 Online-Plattformen. Parallel forsche und lehre ich an der Hochschule Offenburg.
 
-Über CONTIC biete ich diese Leistungen als durchgängiges Angebot — Beratung,
-Umsetzung, Migration und Betrieb aus einer Hand. Mein Anspruch: **praktische
-Anwendbarkeit und zukunftsfähige Lösungen** — keine Folien, sondern Dinge, die funktionieren.
+Geschäftliche Anfragen laufen über [**CONTIC**](https://contic.de): CONTIC berät, konzipiert
+und führt ein; den laufenden Betrieb in der IT übernimmt auf Wunsch
+[**eilige-EDV**](https://eilige-edv.de). Mein Anspruch: **praktische Anwendbarkeit und
+zukunftsfähige Lösungen** — keine Folien, sondern Dinge, die funktionieren.
 
 <p align="right">(<a href="#readme-top">nach oben</a>)</p>
 
-## Leistungen
+## Schwerpunkte
 
 - **Beratung & Begleitung** — Unternehmens- und Technologieberatung, Digitalisierung, E-Business; prozess- und projektbegleitend
 - **Web & E-Business** — HTML5, E-Commerce, Online-Plattformen, Prototyping; KI-gestützte Deployments und Migrationen im Web-Tech-Stack
 - **Plattformen & Systeme** — Einführung, Integration und Migration von Odoo (ERP), GLPI (IT-Service & Asset-Management), LimeSurvey, REDAXO, WordPress und OXID eShop
-- **IT-Dienste** — Server, Desktop und Mobile: Einrichtung, Betrieb und Support
 - **Innovation & Forschung** — Augmented Reality (mobil), IoT und Smart Factory; KI-gestützte, spezifikationsgetriebene Entwicklung und Lehre
+- **IT-Betrieb** — Server, Desktop, Support: durch [eilige-EDV](https://eilige-edv.de), die ausführende IT-Unternehmung von CONTIC
 
-→ Vollständiges Leistungsangebot: [**contic.de**](https://contic.de)
+→ Angebot und Leistungen: [**contic.de**](https://contic.de)
 
 <p align="right">(<a href="#readme-top">nach oben</a>)</p>
 
@@ -84,9 +85,15 @@ Anwendbarkeit und zukunftsfähige Lösungen** — keine Folien, sondern Dinge, d
 
 ## Open Source & Community
 
-Aktiv in der **[REDAXO](https://redaxo.org)**-Community und Mitglied bei
-**[FriendsOfREDAXO](https://github.com/FriendsOfREDAXO)**. Über die Jahre sind
-mehrere REDAXO-Addons entstanden (MarkItUp, FancyBox, Piwik, Video.js u. a.).
+Seit 2012 in der **[REDAXO](https://redaxo.org)**-Community aktiv, Mitglied bei
+**[FriendsOfREDAXO](https://github.com/FriendsOfREDAXO)**: Autor der Addons
+[LightGallery](https://github.com/FriendsOfREDAXO/lightgallery) und
+[PhotoSwipe](https://github.com/FriendsOfREDAXO/photoswipe). Frühere Addons für
+REDAXO 4 (MarkItUp, FancyBox, Piwik, Video.js) sind archiviert.
+
+**Beiträge:** Fehlerberichte, Feature-Wünsche und Pull Requests bei Projekten, die ich
+selbst einsetze — darunter Nextcloud (Appointments, Whiteboard, Guests) und die
+Odoo-Lokalisierung für Deutschland (OCA).
 
 <p align="right">(<a href="#readme-top">nach oben</a>)</p>
 
@@ -119,17 +126,17 @@ ORCID: [0009-0002-7613-8260](https://orcid.org/0009-0002-7613-8260)
 
 Business consultant, technical staff member and lecturer at **Offenburg University of Applied
 Sciences**, and owner of the agency **[CONTIC](https://contic.de)** (Gengenbach,
-Black Forest, founded 2007). Through CONTIC I deliver an end-to-end offering —
-consulting, implementation, migration and operations from a single source.
+Black Forest, founded 2007). Business enquiries go through CONTIC: it advises, designs and
+introduces; ongoing IT operations are provided on request by **[eilige-EDV](https://eilige-edv.de)**.
 
-**Services:** business & technology consulting; web & e-business (HTML5,
+**Focus areas:** business & technology consulting; web & e-business (HTML5,
 e-commerce, online platforms, prototyping); AI-assisted deployments and web
 stack migrations; platform rollouts and migrations (Odoo, GLPI, LimeSurvey,
-REDAXO, WordPress, OXID); IT services for server, desktop and mobile; plus
+REDAXO, WordPress, OXID); plus
 augmented reality, IoT/smart factory and AI-assisted, spec-driven development
 and teaching.
 
-Active in the **REDAXO** community ([FriendsOfREDAXO](https://github.com/FriendsOfREDAXO)).
+Active in the **REDAXO** community since 2012 ([FriendsOfREDAXO](https://github.com/FriendsOfREDAXO)), author of the LightGallery and PhotoSwipe add-ons; contributions to software I use myself, among them Nextcloud and the Odoo German localization.
 
 _Note: this profile shows only the tip of the iceberg — most of my work lives in private client, consulting and research repositories. Details and references on request._
 
