@@ -3,18 +3,15 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/458596?v=4" width="120" alt="Gilbert Seilheimer" style="border-radius:50%">
+<a href="https://gseilheimer.de?mtm_source=github&mtm_medium=profil">
+  <img src="https://raw.githubusercontent.com/gseilheimer/gseilheimer/main/banner.png" alt="Gilbert Seilheimer: Turning concepts into prototypes. Business consultant, web technologist, technical staff member and lecturer at Offenburg University of Applied Sciences. Next to it, the home page of gseilheimer.de." width="100%">
+</a>
 
-# Gilbert Seilheimer
-
-**Aus Konzepten werden Prototypen.**
-Unternehmensberater · Technischer Mitarbeiter und Dozent · Web-Technologe
-
-Inhaber der Agentur [**CONTIC**](https://contic.de) (Gengenbach, Schwarzwald) ·
+Inhaber der Agentur [**CONTIC**](https://contic.de?mtm_source=github&mtm_medium=profil) (Gengenbach, Schwarzwald) ·
 Technischer Mitarbeiter und Dozent an der [**Hochschule Offenburg**](https://www.hs-offenburg.de)
 
-[![Website](https://img.shields.io/badge/Website-gseilheimer.de-7d397f?style=flat-square&logo=googlechrome&logoColor=white)](https://gseilheimer.de)
-[![CONTIC](https://img.shields.io/badge/Agentur-CONTIC-7d397f?style=flat-square)](https://contic.de)
+[![Website](https://img.shields.io/badge/Website-gseilheimer.de-7d397f?style=flat-square&logo=googlechrome&logoColor=white)](https://gseilheimer.de?mtm_source=github&mtm_medium=profil)
+[![CONTIC](https://img.shields.io/badge/Agentur-CONTIC-7d397f?style=flat-square)](https://contic.de?mtm_source=github&mtm_medium=profil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gseilheimer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gseilheimer)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7613--8260-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7613-8260)
 [![Impressum](https://img.shields.io/badge/Impressum-555555?style=flat-square)](https://gseilheimer.de/imprint)
@@ -26,14 +23,11 @@ Technischer Mitarbeiter und Dozent an der [**Hochschule Offenburg**](https://www
 ## Über mich
 
 Ich verbinde **Unternehmensberatung** mit **angewandter Web- und Technologie­entwicklung** —
-von der strategischen Idee über die Umsetzung bis zum laufenden Betrieb. Seit 2007 führe
-ich die Agentur **CONTIC** und begleite Unternehmen bei Digitalisierung, E-Business und
-Online-Plattformen. Parallel forsche und lehre ich an der Hochschule Offenburg.
+von der strategischen Idee über die Umsetzung bis zur Einführung. Seit 2007 führe
+ich die Agentur **CONTIC** und begleite Unternehmen bei der Einführung von Odoo, GLPI und LimeSurvey und beim Aufbau von Online-Plattformen. Parallel lehre ich an der Hochschule Offenburg.
 
-Geschäftliche Anfragen laufen über [**CONTIC**](https://contic.de): CONTIC berät, konzipiert
-und führt ein; den laufenden Betrieb in der IT übernimmt auf Wunsch
-[**eilige-EDV**](https://eilige-edv.de). Mein Anspruch: **praktische Anwendbarkeit und
-zukunftsfähige Lösungen** — keine Folien, sondern Dinge, die funktionieren.
+Geschäftliche Anfragen laufen über [**CONTIC**](https://contic.de?mtm_source=github&mtm_medium=profil): CONTIC berät, konzipiert
+und führt ein; den laufenden Betrieb in der IT übernimmt auf Wunsch **eilige-EDV**.
 
 <p align="right">(<a href="#readme-top">nach oben</a>)</p>
 
@@ -42,10 +36,10 @@ zukunftsfähige Lösungen** — keine Folien, sondern Dinge, die funktionieren.
 - **Beratung & Begleitung** — Unternehmens- und Technologieberatung, Digitalisierung, E-Business; prozess- und projektbegleitend
 - **Web & E-Business** — HTML5, E-Commerce, Online-Plattformen, Prototyping; KI-gestützte Deployments und Migrationen im Web-Tech-Stack
 - **Plattformen & Systeme** — Einführung, Integration und Migration von Odoo (ERP), GLPI (IT-Service & Asset-Management), LimeSurvey, REDAXO, WordPress und OXID eShop
-- **Innovation & Forschung** — Augmented Reality (mobil), IoT und Smart Factory; KI-gestützte, spezifikationsgetriebene Entwicklung und Lehre
-- **IT-Betrieb** — Server, Desktop, Support: durch [eilige-EDV](https://eilige-edv.de), die ausführende IT-Unternehmung von CONTIC
+- **Innovation** — Augmented Reality (mobil), IoT und Smart Factory; KI-gestützte, spezifikationsgetriebene Entwicklung und Lehre
+- **IT-Betrieb** — Server, Desktop, Support: durch eilige-EDV, den IT-Betrieb von CONTIC
 
-→ Angebot und Leistungen: [**contic.de**](https://contic.de)
+→ Angebot und Leistungen: [**contic.de**](https://contic.de?mtm_source=github&mtm_medium=profil)
 
 <p align="right">(<a href="#readme-top">nach oben</a>)</p>
 
@@ -79,7 +73,7 @@ zukunftsfähige Lösungen** — keine Folien, sondern Dinge, die funktionieren.
 | **contic.de** | Redaktionelle Neustrukturierung & Positionierung der Agentur-Website (WordPress / Astra · Spectra) |
 | **Newsletter-Automation** | Automatisierte Content-Pipeline mit n8n + LLM + NocoDB |
 
-> **Hinweis:** Öffentlich ist hier nur die Spitze des Eisbergs — ein Großteil meiner Arbeit entsteht in privaten Kunden-, Beratungs- und Forschungsprojekten. Details, Referenzen und Code gerne [auf Anfrage](https://contic.de).
+> **Hinweis:** Öffentlich ist hier nur die Spitze des Eisbergs — ein Großteil meiner Arbeit entsteht in privaten Kunden- und Beratungsprojekten. Details, Referenzen und Code gerne [auf Anfrage](https://contic.de?mtm_source=github&mtm_medium=profil).
 
 <p align="right">(<a href="#readme-top">nach oben</a>)</p>
 
@@ -97,7 +91,7 @@ Odoo-Lokalisierung für Deutschland (OCA).
 
 <p align="right">(<a href="#readme-top">nach oben</a>)</p>
 
-## Lehre & Forschung
+## Lehre
 
 Technischer Mitarbeiter und Dozent an der **Hochschule Offenburg** mit Lehre in
 Grundlagen der IT, Mobile Business, Mobile Commerce und E-Commerce.
@@ -110,8 +104,8 @@ ORCID: [0009-0002-7613-8260](https://orcid.org/0009-0002-7613-8260)
 
 ## Kontakt
 
-- Website — <https://gseilheimer.de>
-- Agentur — <https://contic.de>
+- Website — <https://gseilheimer.de?mtm_source=github&mtm_medium=profil>
+- Agentur — <https://contic.de?mtm_source=github&mtm_medium=profil>
 - LinkedIn — [in/gseilheimer](https://www.linkedin.com/in/gseilheimer)
 - Portfolio — [Dribbble](https://dribbble.com/gseilheimer) · [Behance](https://www.behance.net/gseilheimer)
 
@@ -125,9 +119,9 @@ ORCID: [0009-0002-7613-8260](https://orcid.org/0009-0002-7613-8260)
 **Gilbert Seilheimer** — turning concepts into prototypes.
 
 Business consultant, technical staff member and lecturer at **Offenburg University of Applied
-Sciences**, and owner of the agency **[CONTIC](https://contic.de)** (Gengenbach,
+Sciences**, and owner of the agency **[CONTIC](https://contic.de?mtm_source=github&mtm_medium=profil)** (Gengenbach,
 Black Forest, founded 2007). Business enquiries go through CONTIC: it advises, designs and
-introduces; ongoing IT operations are provided on request by **[eilige-EDV](https://eilige-edv.de)**.
+introduces; ongoing IT operations are provided on request by **eilige-EDV**.
 
 **Focus areas:** business & technology consulting; web & e-business (HTML5,
 e-commerce, online platforms, prototyping); AI-assisted deployments and web
@@ -138,9 +132,9 @@ and teaching.
 
 Active in the **REDAXO** community since 2012 ([FriendsOfREDAXO](https://github.com/FriendsOfREDAXO)), author of the LightGallery and PhotoSwipe add-ons; contributions to software I use myself, among them Nextcloud and the Odoo German localization.
 
-_Note: this profile shows only the tip of the iceberg — most of my work lives in private client, consulting and research repositories. Details and references on request._
+_Note: this profile shows only the tip of the iceberg — most of my work lives in private client and consulting repositories. Details and references on request._
 
-[gseilheimer.de](https://gseilheimer.de) · [LinkedIn](https://www.linkedin.com/in/gseilheimer) · [ORCID](https://orcid.org/0009-0002-7613-8260)
+[gseilheimer.de](https://gseilheimer.de?mtm_source=github&mtm_medium=profil) · [LinkedIn](https://www.linkedin.com/in/gseilheimer) · [ORCID](https://orcid.org/0009-0002-7613-8260)
 
 </details>
 
