@@ -7,11 +7,11 @@
   <img src="https://raw.githubusercontent.com/gseilheimer/gseilheimer/main/banner.png" alt="Gilbert Seilheimer: Turning concepts into prototypes. Business consultant, web technologist, technical staff member and lecturer at Offenburg University of Applied Sciences. Next to it, the home page of gseilheimer.de." width="100%">
 </a>
 
-Inhaber der Agentur [**CONTIC**](https://contic.de?mtm_source=github&mtm_medium=profil) (Gengenbach, Schwarzwald) ·
-Technischer Mitarbeiter und Dozent an der [**Hochschule Offenburg**](https://www.hs-offenburg.de)
+Owner of the agency [**CONTIC**](https://contic.de?mtm_source=github&mtm_medium=profil) (Gengenbach, Black Forest) ·
+Technical staff member and lecturer at [**Offenburg University of Applied Sciences**](https://www.hs-offenburg.de)
 
 [![Website](https://img.shields.io/badge/Website-gseilheimer.de-7d397f?style=flat-square&logo=googlechrome&logoColor=white)](https://gseilheimer.de?mtm_source=github&mtm_medium=profil)
-[![CONTIC](https://img.shields.io/badge/Agentur-CONTIC-7d397f?style=flat-square)](https://contic.de?mtm_source=github&mtm_medium=profil)
+[![CONTIC](https://img.shields.io/badge/Agency-CONTIC-7d397f?style=flat-square)](https://contic.de?mtm_source=github&mtm_medium=profil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gseilheimer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gseilheimer)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7613--8260-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7613-8260)
 [![Impressum](https://img.shields.io/badge/Impressum-555555?style=flat-square)](https://gseilheimer.de/imprint)
@@ -20,30 +20,27 @@ Technischer Mitarbeiter und Dozent an der [**Hochschule Offenburg**](https://www
 
 ---
 
-## Über mich
+## About me
 
-Ich verbinde **Unternehmensberatung** mit **angewandter Web- und Technologie­entwicklung** —
-von der strategischen Idee über die Umsetzung bis zur Einführung. Seit 2007 führe
-ich die Agentur **CONTIC** und begleite Unternehmen bei der Einführung von Odoo, GLPI und LimeSurvey und beim Aufbau von Online-Plattformen. Parallel lehre ich an der Hochschule Offenburg.
+I combine **business consulting** with **applied web and technology development**, from the strategic idea through implementation to rollout. Since 2007 I have run the agency **CONTIC** and help companies introduce Odoo, GLPI and LimeSurvey and build online platforms. I also teach at Offenburg University of Applied Sciences.
 
-Geschäftliche Anfragen laufen über [**CONTIC**](https://contic.de?mtm_source=github&mtm_medium=profil): CONTIC berät, konzipiert
-und führt ein; den laufenden Betrieb in der IT übernimmt auf Wunsch **eilige-EDV**.
+Business enquiries go through [**CONTIC**](https://contic.de?mtm_source=github&mtm_medium=profil): CONTIC advises, designs and introduces; ongoing IT operations are provided on request by **eilige-EDV**.
 
-<p align="right">(<a href="#readme-top">nach oben</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Schwerpunkte
+## Focus areas
 
-- **Beratung & Begleitung** — Unternehmens- und Technologieberatung, Digitalisierung, E-Business; prozess- und projektbegleitend
-- **Web & E-Business** — HTML5, E-Commerce, Online-Plattformen, Prototyping; KI-gestützte Deployments und Migrationen im Web-Tech-Stack
-- **Plattformen & Systeme** — Einführung, Integration und Migration von Odoo (ERP), GLPI (IT-Service & Asset-Management), LimeSurvey, REDAXO, WordPress und OXID eShop
-- **Innovation** — Augmented Reality (mobil), IoT und Smart Factory; KI-gestützte, spezifikationsgetriebene Entwicklung und Lehre
-- **IT-Betrieb** — Server, Desktop, Support: durch eilige-EDV, den IT-Betrieb von CONTIC
+- **Consulting & guidance**: business and technology consulting, digitalisation, e-business; accompanying processes and projects
+- **Web & e-business**: HTML5, e-commerce, online platforms, prototyping; AI-assisted deployments and migrations in the web tech stack
+- **Platforms & systems**: introduction, integration and migration of Odoo (ERP), GLPI (IT service & asset management), LimeSurvey, REDAXO, WordPress and OXID eShop
+- **Innovation**: augmented reality (mobile), IoT and smart factory; AI-assisted, spec-driven development and teaching
+- **IT operations**: servers, desktops, support, provided by eilige-EDV, the IT operations side of CONTIC
 
-→ Angebot und Leistungen: [**contic.de**](https://contic.de?mtm_source=github&mtm_medium=profil)
+→ Offering and services: [**contic.de**](https://contic.de?mtm_source=github&mtm_medium=profil)
 
-<p align="right">(<a href="#readme-top">nach oben</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tech-Stack & Werkzeuge
+## Tech stack & tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -61,81 +58,66 @@ und führt ein; den laufenden Betrieb in der IT übernimmt auf Wunsch **eilige-E
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
 
-<p align="right">(<a href="#readme-top">nach oben</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Aktuelle Projekte
+## Current projects
 
-| Projekt | Worum es geht |
-| ------- | ------------- |
-| [**ki-projekt-template**](https://github.com/gseilheimer/ki-projekt-template) | Vorlage für KI-gestützte Studienprojekte (Context-/Spec-Driven Development mit Claude Code, Cursor, Copilot, Codex) — Hochschule Offenburg |
-| **KI-gestützte Deployments & Migrationen** | Automatisierte, KI-unterstützte Deployments und Migrationen im Web-Tech-Stack |
-| **Plattform-Einführungen** | Prozess- und projektbegleitende Einführung von Odoo, GLPI und LimeSurvey |
-| **contic.de** | Redaktionelle Neustrukturierung & Positionierung der Agentur-Website (WordPress / Astra · Spectra) |
-| **Newsletter-Automation** | Automatisierte Content-Pipeline mit n8n + LLM + NocoDB |
+| Project | What it is about |
+| ------- | ---------------- |
+| [**ki-projekt-template**](https://github.com/gseilheimer/ki-projekt-template) | Template for AI-assisted student projects (context-/spec-driven development with Claude Code, Cursor, Copilot, Codex), Offenburg University of Applied Sciences |
+| **AI-assisted deployments & migrations** | Automated, AI-supported deployments and migrations in the web tech stack |
+| **Platform rollouts** | Process- and project-supporting introduction of Odoo, GLPI and LimeSurvey |
+| **contic.de** | Editorial restructuring and positioning of the agency website (WordPress / Astra · Spectra) |
+| **Newsletter automation** | Automated content pipeline with n8n + LLM + NocoDB |
 
-> **Hinweis:** Öffentlich ist hier nur die Spitze des Eisbergs — ein Großteil meiner Arbeit entsteht in privaten Kunden- und Beratungsprojekten. Details, Referenzen und Code gerne [auf Anfrage](https://contic.de?mtm_source=github&mtm_medium=profil).
+> **Note:** Only the tip of the iceberg is public here. Most of my work happens in private client and consulting projects. Details, references and code [on request](https://contic.de?mtm_source=github&mtm_medium=profil).
 
-<p align="right">(<a href="#readme-top">nach oben</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Open Source & Community
+## Open source & community
 
-Seit 2012 in der **[REDAXO](https://redaxo.org)**-Community aktiv, Mitglied bei
-**[FriendsOfREDAXO](https://github.com/FriendsOfREDAXO)**: Autor der Addons
-[LightGallery](https://github.com/FriendsOfREDAXO/lightgallery) und
-[PhotoSwipe](https://github.com/FriendsOfREDAXO/photoswipe). Frühere Addons für
-REDAXO 4 (MarkItUp, FancyBox, Piwik, Video.js) sind archiviert.
+Active in the **[REDAXO](https://redaxo.org)** community since 2012, member of
+**[FriendsOfREDAXO](https://github.com/FriendsOfREDAXO)**: author of the add-ons
+[LightGallery](https://github.com/FriendsOfREDAXO/lightgallery) and
+[PhotoSwipe](https://github.com/FriendsOfREDAXO/photoswipe). Earlier add-ons for
+REDAXO 4 (MarkItUp, FancyBox, Piwik, Video.js) are archived.
 
-**Beiträge:** Fehlerberichte, Feature-Wünsche und Pull Requests bei Projekten, die ich
-selbst einsetze — darunter Nextcloud (Appointments, Whiteboard, Guests) und die
-Odoo-Lokalisierung für Deutschland (OCA).
+**Contributions:** bug reports, feature requests and pull requests for projects I use
+myself, among them Nextcloud (Appointments, Whiteboard, Guests) and the
+Odoo localization for Germany (OCA).
 
-<p align="right">(<a href="#readme-top">nach oben</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Lehre
+## Teaching
 
-Technischer Mitarbeiter und Dozent an der **Hochschule Offenburg** mit Lehre in
-Grundlagen der IT, Mobile Business, Mobile Commerce und E-Commerce.
-Aktueller Fokus: KI-gestützte, spezifikationsgetriebene Entwicklung in
-studentischen Teamprojekten.
+Technical staff member and lecturer at **Offenburg University of Applied Sciences**, teaching
+IT fundamentals, mobile business, mobile commerce and e-commerce.
+Current focus: AI-assisted, spec-driven development in student team projects.
 
 ORCID: [0009-0002-7613-8260](https://orcid.org/0009-0002-7613-8260)
 
-<p align="right">(<a href="#readme-top">nach oben</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Kontakt
+## Contact
 
-- Website — <https://gseilheimer.de?mtm_source=github&mtm_medium=profil>
-- Agentur — <https://contic.de?mtm_source=github&mtm_medium=profil>
-- LinkedIn — [in/gseilheimer](https://www.linkedin.com/in/gseilheimer)
-- Portfolio — [Dribbble](https://dribbble.com/gseilheimer) · [Behance](https://www.behance.net/gseilheimer)
+- Website: <https://gseilheimer.de?mtm_source=github&mtm_medium=profil>
+- Agency: <https://contic.de?mtm_source=github&mtm_medium=profil>
+- LinkedIn: [in/gseilheimer](https://www.linkedin.com/in/gseilheimer)
+- Portfolio: [Dribbble](https://dribbble.com/gseilheimer) · [Behance](https://www.behance.net/gseilheimer)
 
 ---
 
 <details>
-<summary><strong>English summary</strong></summary>
+<summary><strong>Zusammenfassung auf Deutsch</strong></summary>
 
 <br>
 
-**Gilbert Seilheimer** — turning concepts into prototypes.
+**Gilbert Seilheimer**: aus Konzepten werden Prototypen.
 
-Business consultant, technical staff member and lecturer at **Offenburg University of Applied
-Sciences**, and owner of the agency **[CONTIC](https://contic.de?mtm_source=github&mtm_medium=profil)** (Gengenbach,
-Black Forest, founded 2007). Business enquiries go through CONTIC: it advises, designs and
-introduces; ongoing IT operations are provided on request by **eilige-EDV**.
-
-**Focus areas:** business & technology consulting; web & e-business (HTML5,
-e-commerce, online platforms, prototyping); AI-assisted deployments and web
-stack migrations; platform rollouts and migrations (Odoo, GLPI, LimeSurvey,
-REDAXO, WordPress, OXID); plus
-augmented reality, IoT/smart factory and AI-assisted, spec-driven development
-and teaching.
-
-Active in the **REDAXO** community since 2012 ([FriendsOfREDAXO](https://github.com/FriendsOfREDAXO)), author of the LightGallery and PhotoSwipe add-ons; contributions to software I use myself, among them Nextcloud and the Odoo German localization.
-
-_Note: this profile shows only the tip of the iceberg — most of my work lives in private client and consulting repositories. Details and references on request._
+Unternehmensberater, technischer Mitarbeiter und Dozent an der **Hochschule Offenburg** und Inhaber der Agentur **[CONTIC](https://contic.de?mtm_source=github&mtm_medium=profil)** (Gengenbach, Schwarzwald, gegründet 2007). Geschäftliche Anfragen laufen über CONTIC: CONTIC berät, konzipiert und führt ein; den laufenden Betrieb in der IT übernimmt auf Wunsch **eilige-EDV**.
 
 [gseilheimer.de](https://gseilheimer.de?mtm_source=github&mtm_medium=profil) · [LinkedIn](https://www.linkedin.com/in/gseilheimer) · [ORCID](https://orcid.org/0009-0002-7613-8260)
 
 </details>
 
-<p align="right">(<a href="#readme-top">nach oben</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
